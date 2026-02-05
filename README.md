@@ -1,1 +1,1 @@
-# unityx-updates
+UnityX release repository
